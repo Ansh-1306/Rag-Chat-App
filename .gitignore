@@ -1,0 +1,16 @@
+# Python virtual environment
+myenv/
+
+# Temporary uploaded PDFs directory
+temp_uploaded_pdfs/
+temp_uploaded_files/
+
+.vscode/
+
+# Environment variables
+.env
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo

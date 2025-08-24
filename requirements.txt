@@ -1,0 +1,17 @@
+langchain
+langchain_community
+streamlit
+langchain_core
+langchain_groq
+langchain-text-splitters
+langchain-openai
+python-dotenv
+faiss-cpu
+pypdf
+langchain_huggingface
+sentence-transformers
+pytesseract
+pillow
+docx2txt
+pandas
+google-generativeai
